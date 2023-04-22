@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gourish Pisal</h1>
 <h3 align="center">I am a data scientist passionate about using data to solve complex problems. I am eager to learn new technologies in the software and data domains, and collaborate with others to achieve our shared goals.</h3>
  
-<img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/saszr/saszr/master/assets/Coding.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/saszr/saszr/master/assets/Coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourishpisal&label=Profile%20views&color=0e75b6&style=flat" alt="gourishpisal" /> </p>
 
