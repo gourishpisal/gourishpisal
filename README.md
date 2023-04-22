@@ -1,4 +1,4 @@
-![logo](https://github.com/gourishpisal/gourishpisal/blob/main/Banner.jpg)
+![logo](https://github.com/gourishpisal/gourishpisal/blob/main/msda_bar_03.jpg)
 <h1 align="center">Hi 👋, I'm Gourish Pisal</h1>
 <h3 align="center">I am a data scientist passionate about using data to solve complex problems. I am eager to learn new technologies in the software and data domains, and collaborate with others to achieve our shared goals.</h3>
  
